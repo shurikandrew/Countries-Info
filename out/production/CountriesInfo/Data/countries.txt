@@ -1,0 +1,251 @@
+Country	Capital	Population	Flag
+Territory of Christmas Island	[Flying Fish Cove]	2072	cx.png
+State of Eritrea	[Asmara]	5352000	er.png
+Independent State of Samoa	[Apia]	198410	ws.png
+Republic of North Macedonia	[Skopje]	2077132	mk.png
+Republic of Djibouti	[Djibouti]	988002	dj.png
+Hashemite Kingdom of Jordan	[Amman]	10203140	jo.png
+Islamic Republic of Pakistan	[Islamabad]	220892331	pk.png
+French Polynesia	[Papeetē]	280904	pf.png
+Republic of Ireland	[Dublin]	4994724	ie.png
+Islamic Republic of Mauritania	[Nouakchott]	4649660	mr.png
+Kingdom of Denmark	[Copenhagen]	5831404	dk.png
+Republic of Namibia	[Windhoek]	2540916	na.png
+Republic of Ghana	[Accra]	31072945	gh.png
+Republic of South Sudan	[Juba]	11193729	ss.png
+Slovak Republic	[Bratislava]	5458827	sk.png
+American Samoa	[Pago Pago]	55197	as.png
+Republic of Moldova	[Chișinău]	2617820	md.png
+Democratic People's Republic of Korea	[Pyongyang]	25778815	kp.png
+Macao Special Administrative Region of the People's Republic of China	[]	649342	mo.png
+Turks and Caicos Islands	[Cockburn Town]	38718	tc.png
+Republic of Seychelles	[Victoria]	98462	sc.png
+Republic of Armenia	[Yerevan]	2963234	am.png
+Country of Curaçao	[Willemstad]	155014	cw.png
+Guadeloupe	[Basse-Terre]	400132	gp.png
+British Indian Ocean Territory	[Diego Garcia]	3000	io.png
+Republic of Equatorial Guinea	[Malabo]	1402985	gq.png
+Syrian Arab Republic	[Damascus]	17500657	sy.png
+Republic of Angola	[Luanda]	32866268	ao.png
+Republic of Tajikistan	[Dushanbe]	9537642	tj.png
+Bolivarian Republic of Venezuela	[Caracas]	28435943	ve.png
+United States Minor Outlying Islands	[Washington DC]	300	um.png
+Åland Islands	[Mariehamn]	29458	ax.png
+Republic of Poland	[Warsaw]	37950802	pl.png
+Kingdom of Saudi Arabia	[Riyadh]	34813867	sa.png
+Republic of the Congo	[Brazzaville]	5657000	cg.png
+Bosnia and Herzegovina	[Sarajevo]	3280815	ba.png
+Virgin Islands of the United States	[Charlotte Amalie]	106290	vi.png
+New Caledonia	[Nouméa]	271960	nc.png
+Republic of San Marino	[City of San Marino]	33938	sm.png
+Czech Republic	[Prague]	10698896	cz.png
+Republic of Guatemala	[Guatemala City]	16858333	gt.png
+Republic of Korea	[Seoul]	51780579	kr.png
+Republic of Estonia	[Tallinn]	1331057	ee.png
+Federal Democratic Republic of Nepal	[Kathmandu]	29136808	np.png
+Republic of Kosovo	[Pristina]	1775378	xk.png
+Republic of Botswana	[Gaborone]	2351625	bw.png
+Republic of the Philippines	[Manila]	109581085	ph.png
+Saint Pierre and Miquelon	[Saint-Pierre]	6069	pm.png
+Republic of Iraq	[Baghdad]	40222503	iq.png
+Lebanese Republic	[Beirut]	6825442	lb.png
+Republic of Burundi	[Gitega]	11890781	bi.png
+Mongolia	[Ulan Bator]	3278292	mn.png
+Faroe Islands	[Tórshavn]	48865	fo.png
+Republic of Paraguay	[Asunción]	7132530	py.png
+Svalbard og Jan Mayen	[Longyearbyen]	2562	sj.png
+Tokelau	[Fakaofo]	1411	tk.png
+Bailiwick of Guernsey	[St. Peter Port]	62999	gg.png
+Bonaire, Sint Eustatius and Saba	[Kralendijk]	25987	bq.png
+People's Democratic Republic of Algeria	[Algiers]	44700000	dz.png
+French Republic	[Paris]	67391582	fr.png
+Kingdom of the Netherlands	[Amsterdam]	16655799	nl.png
+Greenland	[Nuuk]	56367	gl.png
+Sint Maarten	[Philipsburg]	40812	sx.png
+Republic of Chad	[N'Djamena]	16425859	td.png
+Republic of Finland	[Helsinki]	5530719	fi.png
+Republic of Panama	[Panama City]	4314768	pa.png
+State of Palestine	[Ramallah, Jerusalem]	4803269	ps.png
+Republic of Yemen	[Sana'a]	29825968	ye.png
+Federative Republic of Brazil	[Brasília]	212559409	br.png
+Federal Republic of Nigeria	[Abuja]	206139587	ng.png
+Republic of Palau	[Ngerulmud]	18092	pw.png
+Japan	[Tokyo]	125836021	jp.png
+United Republic of Tanzania	[Dodoma]	59734213	tz.png
+Republic of Kazakhstan	[Nur-Sultan]	18754440	kz.png
+Portuguese Republic	[Lisbon]	10305564	pt.png
+South Georgia and the South Sandwich Islands	[King Edward Point]	30	gs.png
+Democratic Socialist Republic of Sri Lanka	[Sri Jayawardenepura Kotte]	21919000	lk.png
+Federal Republic of Germany	[Berlin]	83240525	de.png
+Sahrawi Arab Democratic Republic	[El Aaiún]	510713	eh.png
+Republic of the Union of Myanmar	[Naypyidaw]	54409794	mm.png
+Republic of Colombia	[Bogotá]	50882884	co.png
+Republic of Peru	[Lima]	32971846	pe.png
+Republic of Senegal	[Dakar]	16743930	sn.png
+Kyrgyz Republic	[Bishkek]	6591600	kg.png
+People's Republic of China	[Beijing]	1402112000	cn.png
+Islamic Republic of Afghanistan	[Kabul]	40218234	tb.png
+Republic of Turkey	[Ankara]	84339067	tr.png
+Republic of Liberia	[Monrovia]	5057677	lr.png
+Republic of South Africa	[Pretoria, Bloemfontein, Cape Town]	59308690	za.png
+Republic of Chile	[Santiago]	19116209	cl.png
+Republic of Malta	[Valletta]	525285	mt.png
+Independent and Sovereign Republic of Kiribati	[South Tarawa]	119446	ki.png
+Republic of Cabo Verde	[Praia]	555988	cv.png
+Bailiwick of Jersey	[Saint Helier]	100800	je.png
+Iceland	[Reykjavik]	366425	is.png
+Republic of the Gambia	[Banjul]	2416664	gm.png
+Republic of Vanuatu	[Port Vila]	307150	vu.png
+Oriental Republic of Uruguay	[Montevideo]	3473727	uy.png
+Sultanate of Oman	[Muscat]	5106622	om.png
+Republic of the Sudan	[Khartoum]	43849269	sd.png
+Republic of India	[New Delhi]	1380004385	in.png
+Lao People's Democratic Republic	[Vientiane]	7275556	la.png
+Aruba	[Oranjestad]	106766	aw.png
+Martinique	[Fort-de-France]	378243	mq.png
+Union of the Comoros	[Moroni]	869595	km.png
+Kingdom of Spain	[Madrid]	47351567	es.png
+Antigua and Barbuda	[Saint John's]	97928	ag.png
+Republic of Uzbekistan	[Tashkent]	34232050	uz.png
+Republic of the Maldives	[Malé]	540542	mv.png
+Gibraltar	[Gibraltar]	33691	gi.png
+Republic of Indonesia	[Jakarta]	273523621	id.png
+Pitcairn Group of Islands	[Adamstown]	56	pn.png
+Socialist Republic of Vietnam	[Hanoi]	97338583	vn.png
+Malaysia	[Kuala Lumpur]	32365998	my.png
+Cook Islands	[Avarua]	18100	ck.png
+Kingdom of Eswatini	[Mbabane]	1160164	sz.png
+Republic of Uganda	[Kampala]	45741000	ug.png
+Republic of Madagascar	[Antananarivo]	27691019	mg.png
+Republic of Fiji	[Suva]	896444	fj.png
+Kingdom of Norway	[Oslo]	5379475	no.png
+Antarctica	[]	1000	aq.png
+Bouvet Island	[]	0	bv.png
+Republic of Cyprus	[Nicosia]	1207361	cy.png
+Republic of China (Taiwan)	[Taipei]	23503349	tw.png
+Independent State of Papua New Guinea	[Port Moresby]	8947027	pg.png
+Republic of Rwanda	[Kigali]	12952209	rw.png
+Democratic Republic of the Congo	[Kinshasa]	108407721	cd.png
+Republic of Cameroon	[Yaoundé]	26545864	cm.png
+Republic of Serbia	[Belgrade]	6908224	rs.png
+Republic of Lithuania	[Vilnius]	2794700	lt.png
+Territory of the French Southern and Antarctic Lands	[Port-aux-Français]	400	tf.png
+Kingdom of Cambodia	[Phnom Penh]	16718971	kh.png
+Saint Helena, Ascension and Tristan da Cunha	[Jamestown]	53192	sh.png
+United Arab Emirates	[Abu Dhabi]	9890400	ae.png
+Bermuda	[Hamilton]	63903	bm.png
+Principality of Monaco	[Monaco]	39244	mc.png
+Republic of Cuba	[Havana]	11326616	cu.png
+Hong Kong Special Administrative Region of the People's Republic of China	[City of Victoria]	7500700	hk.png
+Commonwealth of the Northern Mariana Islands	[Saipan]	57557	mp.png
+Togolese Republic	[Lomé]	8278737	tg.png
+Grand Duchy of Luxembourg	[Luxembourg]	632275	lu.png
+Republic of Mauritius	[Port Louis]	1265740	mu.png
+Argentine Republic	[Buenos Aires]	45376763	ar.png
+Grenada	[St. George's]	112519	gd.png
+Republic of Nicaragua	[Managua]	6624554	ni.png
+Niue	[Alofi]	1470	nu.png
+Ukraine	[Kyiv]	44134693	ua.png
+Co-operative Republic of Guyana	[Georgetown]	786559	gy.png
+Republic of Niger	[Niamey]	24206636	ne.png
+Republic of Benin	[Porto-Novo]	12123198	bj.png
+Saint Lucia	[Castries]	183629	lc.png
+Tuvalu	[Funafuti]	11792	tv.png
+Territory of Norfolk Island	[Kingston]	2302	nf.png
+Arab Republic of Egypt	[Cairo]	102334403	eg.png
+Federation of Saint Christopher and Nevis	[Basseterre]	53192	kn.png
+Kingdom of Lesotho	[Maseru]	2142252	ls.png
+Kingdom of Tonga	[Nuku'alofa]	105697	to.png
+Georgia	[Tbilisi]	3714000	ge.png
+Federal Democratic Republic of Ethiopia	[Addis Ababa]	114963583	et.png
+Dominican Republic	[Santo Domingo]	10847904	do.png
+Saint Vincent and the Grenadines	[Kingstown]	110947	vc.png
+Belize	[Belmopan]	397621	bz.png
+Isle of Man	[Douglas]	85032	im.png
+Kingdom of Morocco	[Rabat]	36910558	ma.png
+Republic of Haiti	[Port-au-Prince]	11402533	ht.png
+Department of Mayotte	[Mamoudzou]	226915	yt.png
+Burkina Faso	[Ouagadougou]	20903278	bf.png
+People's Republic of Bangladesh	[Dhaka]	164689383	bd.png
+State of Kuwait	[Kuwait City]	4270563	kw.png
+Réunion Island	[Saint-Denis]	840974	re.png
+Jamaica	[Kingston]	2961161	jm.png
+Romania	[Bucharest]	19286123	ro.png
+Democratic Republic of São Tomé and Príncipe	[São Tomé]	219161	st.png
+Commonwealth of the Bahamas	[Nassau]	393248	bs.png
+United Mexican States	[Mexico City]	128932753	mx.png
+Saint Martin	[Marigot]	38659	mf.png
+Republic of El Salvador	[San Salvador]	6486201	sv.png
+Collectivity of Saint Barthélemy	[Gustavia]	4255	bl.png
+Federated States of Micronesia	[Palikir]	115021	fm.png
+Turkmenistan	[Ashgabat]	6031187	tm.png
+Anguilla	[The Valley]	13452	ai.png
+Central African Republic	[Bangui]	4829764	cf.png
+Republic of Suriname	[Paramaribo]	586634	sr.png
+Kingdom of Belgium	[Brussels]	11555997	be.png
+Kingdom of Sweden	[Stockholm]	10353442	se.png
+Plurinational State of Bolivia	[Sucre]	11673029	bo.png
+Montenegro	[Podgorica]	621718	me.png
+Republic of Mozambique	[Maputo]	31255435	mz.png
+Republic of Latvia	[Riga]	1901548	lv.png
+Republic of Malawi	[Lilongwe]	19129955	mw.png
+Republic of Mali	[Bamako]	20250834	ml.png
+Vatican City State	[Vatican City]	451	va.png
+Montserrat	[Plymouth]	4922	ms.png
+Republic of Austria	[Vienna]	8917205	at.png
+Republic of Albania	[Tirana]	2837743	al.png
+Virgin Islands	[Road Town]	30237	vg.png
+Republic of Zambia	[Lusaka]	18383956	zm.png
+Guiana	[Cayenne]	254541	gf.png
+Principality of Liechtenstein	[Vaduz]	38137	li.png
+State of Qatar	[Doha]	2881060	qa.png
+Solomon Islands	[Honiara]	686878	sb.png
+Republic of Nauru	[Yaren]	10834	nr.png
+Hellenic Republic	[Athens]	10715549	gr.png
+State of Libya	[Tripoli]	6871287	ly.png
+Republic of Guinea-Bissau	[Bissau]	1967998	gw.png
+Barbados	[Bridgetown]	287371	bb.png
+Republic of Honduras	[Tegucigalpa]	9904608	hn.png
+Federal Republic of Somalia	[Mogadishu]	15893219	so.png
+Cayman Islands	[George Town]	65720	ky.png
+Italian Republic	[Rome]	59554023	it.png
+Territory of the Wallis and Futuna Islands	[Mata-Utu]	11750	wf.png
+Principality of Andorra	[Andorra la Vella]	77265	ad.png
+Republic of Ecuador	[Quito]	17643060	ec.png
+Republic of Kenya	[Nairobi]	53771300	ke.png
+Kingdom of Bahrain	[Manama]	1701583	bh.png
+United Kingdom of Great Britain and Northern Ireland	[London]	67215293	gb.png
+Republic of Guinea	[Conakry]	13132792	gn.png
+Heard Island and McDonald Islands	[]	0	hm.png
+Russian Federation	[Moscow]	144104080	ru.png
+Nation of Brunei, Abode of Peace	[Bandar Seri Begawan]	437483	bn.png
+Republic of Zimbabwe	[Harare]	14862927	zw.png
+Guam	[Hagåtña]	168783	gu.png
+Commonwealth of Australia	[Canberra]	25687041	au.png
+Republic of Slovenia	[Ljubljana]	2100126	si.png
+Republic of Belarus	[Minsk]	9398861	by.png
+Kingdom of Thailand	[Bangkok]	69799978	th.png
+New Zealand	[Wellington]	5084300	nz.png
+Tunisian Republic	[Tunis]	11818618	tn.png
+Republic of the Marshall Islands	[Majuro]	59194	mh.png
+Republic of Sierra Leone	[Freetown]	7976985	sl.png
+Kingdom of Bhutan	[Thimphu]	771612	bt.png
+United States of America	[Washington, D.C.]	329484123	us.png
+Swiss Confederation	[Bern]	8654622	ch.png
+Falkland Islands	[Stanley]	2563	fk.png
+Territory of the Cocos (Keeling) Islands	[West Island]	544	cc.png
+Gabonese Republic	[Libreville]	2225728	ga.png
+Commonwealth of Dominica	[Roseau]	71991	dm.png
+Canada	[Ottawa]	38005238	ca.png
+Republic of Trinidad and Tobago	[Port of Spain]	1399491	tt.png
+Commonwealth of Puerto Rico	[San Juan]	3194034	pr.png
+Republic of Singapore	[Singapore]	5685807	sg.png
+Hungary	[Budapest]	9749763	hu.png
+Republic of Costa Rica	[San José]	5094114	cr.png
+State of Israel	[Jerusalem]	9216900	il.png
+Republic of Bulgaria	[Sofia]	6927288	bg.png
+Republic of Azerbaijan	[Baku]	10110116	az.png
+Democratic Republic of Timor-Leste	[Dili]	1318442	tl.png
+Islamic Republic of Iran	[Tehran]	83992953	ir.png
+Republic of Croatia	[Zagreb]	4047200	hr.png
+Republic of Côte d'Ivoire	[Yamoussoukro]	26378275	ci.png
